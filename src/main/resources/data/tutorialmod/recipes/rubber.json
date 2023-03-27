@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "item": "ic2:rubber",
+    "count": 3
+  }
+}
